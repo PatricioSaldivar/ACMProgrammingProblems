@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Password Asterix/main.cpp"
-            timestampString = "559713562.941914"
+            timestampString = "559751236.8638591"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "32"
@@ -26,7 +26,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Password Asterix/main.cpp"
-            timestampString = "559713562.94275"
+            timestampString = "559751236.86454"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "23"
@@ -38,11 +38,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Password Asterix/main.cpp"
-            timestampString = "559713562.943435"
+            timestampString = "559751236.865033"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "34"
@@ -58,7 +58,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Password Asterix/main.cpp"
-            timestampString = "559713562.944154"
+            timestampString = "559751236.865496"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "43"
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Password Asterix/main.cpp"
-            timestampString = "559713562.94461"
+            timestampString = "559751236.865929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
             landmarkName = "main()"
             landmarkType = "9">
          </BreakpointContent>
@@ -86,11 +86,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Password Asterix/main.cpp"
-            timestampString = "559713562.944954"
+            timestampString = "559751236.866346"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
@@ -106,7 +106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Password Asterix/main.cpp"
-            timestampString = "559713562.94525"
+            timestampString = "559751236.8666281"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "36"

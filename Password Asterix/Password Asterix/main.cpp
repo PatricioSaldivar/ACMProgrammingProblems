@@ -40,13 +40,6 @@ int main() {
             return 0;
         }
     }
-    for (long long i=1; i<tamPreSuf+1; i++) {
-        Oblix= s.substr(1,i);
-        if (Oblix==t) {
-            cout << t;
-            return 0;
-            }
-        }
   
     for (long long i=0; i<tamS-tamPreSuf; i++) {
         if (Oblix.length()!=0) {
@@ -61,12 +54,15 @@ int main() {
                 
                     
                 
-        if (Oblix == t.substr(0,Oblix.length())) {
+        if (Oblix == t.substr(0,Oblix.length()) && Oblix[Oblix.length()-1]==t[tamPreSuf-1]) {
             cout<<Oblix;
             return 0;
                     }
                 }
             }
+        if (Oblix.length()==0) {
+            i=tamS-tamPreSuf;
+        }
         
         }
     }
